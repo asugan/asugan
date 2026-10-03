@@ -1,2 +1,5 @@
-<h1 align="center">GIGACHAD DEVELOPER - MONSTER<h1/>
-<h2 align="center"><a href="https://dekadans.net](https://asugan.github.io">CLICK</a></h2>
+<h1 align="center">GIGACHAD DEVELOPER - MONSTER</h1>
+
+<p align="center">
+  <img src="./Starlit%20Silver-Haired%20Sky%20Adventurer.jpg" alt="Sky Adventurer" width="600" />
+</p>
